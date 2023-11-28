@@ -1,5 +1,25 @@
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #ADD8E6;
+    }
 
+    h1 {
+      color: #800000;
+    }
+
+    p {
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
 ---
 
 # All about Tiffany!!
@@ -36,6 +56,5 @@ I prefer triangles over squares
 ![I like triangles](https://camo.githubusercontent.com/ea85ae4c8814e620643085b377977cc4b8c7bdcb51787d440b1318c7917d34da/68747470733a2f2f7374617469632e77696b69612e6e6f636f6f6b69652e6e65742f756e616e797468696e672f696d616765732f362f36332f547269616e676c652e706e672f7265766973696f6e2f6c61746573742f7363616c652d746f2d77696474682d646f776e2f323030303f63623d3230323230353033313830373536)
 
 (above) picture of my favorite shape
-
 
 
