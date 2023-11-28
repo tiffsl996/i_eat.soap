@@ -6,18 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         /* Your CSS styles go here */
-        body {
+        <body style>="background-color: powderblue;
             font-family: Georgia, serif;
             line-height: 1.6;
             color: #800000;
             background-color: #ADD8E6;
         
-    </style>
-    <title>Your Page Title</title>
-</head>
-<body style="background-color: powderblue;"> 
-</body>
-</html>
+    
 
 ---
 
