@@ -25,6 +25,8 @@ I prefer triangles over squares
 
 # pics for ref
 ![Me playing trombone](image-1.png)
+<img src="image-1.png" alt="Me playing trombone">
+
 
 ![My cat Popcorn](image.png)
 
