@@ -1,4 +1,3 @@
----
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,11 +7,11 @@
     body {
       font-family: 'Arial', sans-serif;
       background-color: #ADD8E6;
-    }
+    
 
     h1 {
       color: #800000;
-    }
+    
 
     p {
       font-size: 16px;
