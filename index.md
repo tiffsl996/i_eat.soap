@@ -1,14 +1,25 @@
 ---
-<style>
-/* Your CSS styles go here */
-body {
-    font-family: Georgia, serif;
-    line-height: 1.6;
-    color: #800000;
-    background-color: #ADD8E6;
-}
-</style>
-<body style="background-color:powderblue;">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Your CSS styles go here */
+        body {
+            font-family: Georgia, serif;
+            line-height: 1.6;
+            color: #800000;
+            background-color: #ADD8E6;
+        }
+    </style>
+    <title>Your Page Title</title>
+</head>
+<body style="background-color: powderblue;"> <!-- Include a space after the colon -->
+    <!-- Your content goes here -->
+</body>
+</html>
+
 ---
 
 # All about Tiffany!!
