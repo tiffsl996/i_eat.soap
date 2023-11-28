@@ -1,22 +1,8 @@
 ---
 layout: default
 title: Student Blog
+
 ---
-link rel="stylesheet" type="text/css" href="path/to/style.css">
-Add Your CSS Styles:
-<style>
-  h1 {
-    color: powderblue;
-  }
-
-  p {
-    font-size: 18px;
-  }
-</style>
-
-
-## Build you Home Page here 
-This is about your journey. Start now!!!
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
@@ -25,7 +11,6 @@ Blogging in GitHub pages is a way to learn and code at the same time.
 - [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
 - Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
 
-_config.yml
 
 # All about Tiffany!!
 learn about me
@@ -53,7 +38,8 @@ I prefer triangles over squares
 
 ![My cat Popcorn](https://drive.google.com/file/d/1AjHHjOh_V7Q4MIy4oJ-dU8bJr3oXQhDT/view?usp=sharing)
 
-![I like triangles](https://static.wikia.nocookie.net/unanything/images/6/63/Triangle.png/revision/latest/scale-to-width-down/2000?cb=20220503180756)
+![I like triangles](https://static.wikia.nocookie.net/unanything/images/6/63/Triangle.png/revision/latest scale-to-width-down/2000?cb=20220503180756)
+
  
 
 
