@@ -1,13 +1,5 @@
 ---
-<style>
-/* Your CSS styles go here */
-body {
-    font-family: Georgia, serif;
-    line-height: 1.6;
-    color: #800000;
-    background-color: #ADD8E6;
-</style>
-<body style="background-color:powderblue;">
+
 
 ---
 
