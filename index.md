@@ -1,25 +1,4 @@
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      background-color: #ADD8E6;
-    }
-
-    h1 {
-      color: #800000;
-    }
-
-    p {
-      font-size: 16px;
-    }
-  </style>
-</head>
-<body>
 ---
 
 # All about Tiffany!!
