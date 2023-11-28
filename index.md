@@ -44,3 +44,19 @@ I prefer triangles over squares
 
 ![I like triangles](https://static.wikia.nocookie.net/unanything/images/6/63/Triangle.png/revision/latest/scale-to-width-down/2000?cb=20220503180756)
 
+<link rel="stylesheet" type="text/css" href="path/to/style.css">
+Add Your CSS Styles:
+<style>
+  h1 {
+    color: powderblue;
+  }
+
+  p {
+    font-size: 18px;
+  }
+</style>
+
+# My Document
+
+
+
