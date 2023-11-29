@@ -1,7 +1,7 @@
 ---
 ---
 
-# <h1>**All about Tiffany!**</h1>
+# <h1**All about Tiffany!**h1>
 learn about me!
 
 ## Table of contents
