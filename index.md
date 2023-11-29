@@ -5,15 +5,15 @@
 learn about me!
 
 ## Table of contents
-1. overview
-2. hobbbies + interests
-3. preferences
-4. pics for ref
+1. # overview
+2. # hobbbies + interests
+3. # preferences
+4. # pics for ref
 
 
 # overview
 
-My name is Tiffany, I am a freshman in highschool. My favorite colour is green and I like trees. I have a cat, an orange tabby named popcorn. 
+My name is **Tiffany**, I am a freshman in highschool. My favorite colour is green and I like trees. I have a cat, an orange tabby named popcorn. 
 
 
 # hobbies + interests
