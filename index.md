@@ -5,30 +5,30 @@
 learn about me!
 
 ## Table of contents
-1. # overview
-2. # hobbbies + interests
-3. # preferences
-4. # pics for ref
+1.  overview
+2.  hobbbies + interests
+3.  preferences
+4.  pics for ref
 
 
-# overview
+## overview
 
 My name is **Tiffany**, I am a freshman in highschool. My favorite colour is green and I like trees. I have a cat, an orange tabby named popcorn. 
 
 
-# hobbies + interests
+## hobbies + interests
 
 I like making music. I play piano, trombone, and violin. I'm currently in band and orchestra which I moderately enjoy. During my free time, I like to read books. My favorite book genres are fantasy and historical fiction. 
 
 
-# preferences
+## preferences
 
 1. I prefer red vinegar over white vinegar.
 2. I prefer persimmon over oranges.
 3. I prefer triangles over squares.
 
 
-# pictures for reference
+## pictures for reference
 
 <img src="image-1.png" alt="Me playing trombone">
 
