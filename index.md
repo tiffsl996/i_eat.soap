@@ -7,7 +7,7 @@
 1.  overview
 2.  hobbbies + interests
 3.  preferences
-4.  pics for ref
+4.  pictures for reference
 
 
 ## overview
@@ -34,7 +34,7 @@ I like making music. I play piano, trombone, and violin. I'm currently in band a
 (above) me playing trombone :heart:  
 
 
-![My cat Popcorn](image.png)
+![My cat Popcorn](image-2.png) 
 
 (above) my cat **Popcorn** :smiley_cat:
 
