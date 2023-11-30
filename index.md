@@ -1,3 +1,6 @@
+body {
+background-color: #ADD8E6;
+}
 ---
 ---
 
