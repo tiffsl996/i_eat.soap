@@ -1,6 +1,9 @@
-body {
-background-color: #ADD8E6;
-}
+<body style="background-color: #B7F7F7;">
+  <div style="text-align: center; padding: 20px; background-color: #FFA69E;">
+    <h1>All About Tiffany!!</h1>
+  </div>
+</body>
+
 ---
 ---
 
