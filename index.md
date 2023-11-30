@@ -7,8 +7,6 @@
 ---
 ---
 
-<h1 style="text-align: center;">All about Tiffany!</h1>
-
 ## Table of contents
 1.  overview
 2.  hobbbies + interests
