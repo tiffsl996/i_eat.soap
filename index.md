@@ -1,5 +1,12 @@
 
 ---
+# Replace FILE_PATH with the path to the deleted file
+git checkout COMMIT_HASH -- /Users/tiffany/vscode/i_eat.soap/_posts/2023-08-15-Tools_Plans_Sample.md
+
+# Replace FILE_PATH with the path to the deleted file
+git checkout COMMIT_HASH -- tiffanysl996.github.io/i_eat.soap/compsci
+
+
 layout: default
 title: Student Blog
 ---
