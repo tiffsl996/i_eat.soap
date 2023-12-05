@@ -1,11 +1,13 @@
+
+---
+layout: default
+title: Student Blog
+---
 <body style="background-color: #ADD8E6;">
   <div style="text-align: center; padding: 20px; background-color: #C0C0C0;">
     <h1>All About Tiffany!!</h1>
   </div>
 </body>
-
----
----
 
 ## Table of contents
 1.  overview
